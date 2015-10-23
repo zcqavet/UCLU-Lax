@@ -1,0 +1,18 @@
+h1 {
+	color: blue;
+}
+.Committee {
+	color: blue;
+}
+body {
+	text-align: center;
+}
+header {
+	width: 500px;
+	height: 500px;
+}
+ul li {
+	background-color: blue;
+	display: inline;
+}
+
